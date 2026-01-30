@@ -1,7 +1,7 @@
-# 🛠️ Predictive Maintenance using Machine Learning  
+#  Predictive Maintenance using Machine Learning  
 ## AI4I 2020 Dataset
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on **predictive maintenance**, aiming to **predict machine failures before they occur** using supervised machine learning techniques.
 
@@ -9,7 +9,7 @@ The goal is to build, evaluate, and interpret models that can **learn failure pa
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Machine failures are **rare but costly events**, which creates a **highly imbalanced classification problem**.
 
@@ -22,7 +22,7 @@ The objective is to **maximize failure detection (recall)** while maintaining re
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Name:** AI4I 2020 Predictive Maintenance Dataset  
 - **Source:** Kaggle  
@@ -37,12 +37,12 @@ The objective is to **maximize failure detection (recall)** while maintaining re
 - Tool wear  
 - Product type (`L`, `M`, `H`)
 
-⚠️ The dataset is **not included** in this repository.  
+ The dataset is **not included** in this repository.  
 Please download it directly from Kaggle.
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. Data Preparation
 - Removed non-informative identifiers (`Product ID`)
@@ -68,7 +68,7 @@ Please download it directly from Kaggle.
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 Due to class imbalance, the following metrics were used:
 
@@ -82,7 +82,7 @@ Accuracy was **not** used as the main metric.
 
 ---
 
-## ⚖️ Threshold Optimization
+##  Threshold Optimization
 
 Instead of using the default `0.5` probability threshold:
 
@@ -92,7 +92,7 @@ Instead of using the default `0.5` probability threshold:
 
 ---
 
-## 🔍 Model Explainability (SHAP)
+##  Model Explainability (SHAP)
 
 SHAP values were used to interpret model predictions.
 
@@ -105,7 +105,7 @@ These insights support **preventive maintenance decision-making**.
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 | Model | Recall (Failure) | Precision | F1-score |
 |------|------------------|-----------|----------|
@@ -116,14 +116,14 @@ These insights support **preventive maintenance decision-making**.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/Oscar-Jiram/Predictive-Maintenance-Machine-Learning.git
 cd Predictive-Maintenance-Machine-Learning
 pip install -r requirements.txt
 
-## 🧠 Key Takeaways
+##  Key Takeaways
 
 Predictive maintenance is a risk management problem, not an accuracy problem
 
@@ -131,7 +131,7 @@ Threshold tuning is critical in imbalanced industrial datasets
 
 Interpretability is essential for real-world adoption
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Cross-validation with time-aware splits
 
@@ -141,7 +141,7 @@ Model deployment (API)
 
 Real-time monitoring dashboard
 
-## 👤 Author
+##  Author
 
 Oscar Castro
 Background in Industrial Automation & Data Analytics
