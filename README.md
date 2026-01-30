@@ -122,6 +122,7 @@ These insights support **preventive maintenance decision-making**.
 git clone https://github.com/Oscar-Jiram/Predictive-Maintenance-Machine-Learning.git
 cd Predictive-Maintenance-Machine-Learning
 pip install -r requirements.txt
+```
 
 ##  Key Takeaways
 
@@ -143,6 +144,6 @@ Real-time monitoring dashboard
 
 ##  Author
 
-Oscar Castro
+### Oscar Castro
 Background in Industrial Automation & Data Analytics
 Focus on manufacturing analytics, predictive maintenance, and applied ML
