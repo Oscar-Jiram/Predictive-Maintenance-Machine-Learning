@@ -104,7 +104,7 @@ These curves confirm the model’s strong discriminative power and robustness in
 
 Instead of using the default probability threshold (0.5), multiple thresholds were evaluated.
 
-<img width="863" height="578" alt="image" src="https://github.com/user-attachments/assets/6bdddd49-3355-47d7-adfc-8c644222e2a7" />
+<img width="663" height="478" alt="image" src="https://github.com/user-attachments/assets/6bdddd49-3355-47d7-adfc-8c644222e2a7" />
 
 ### Threshold Performance Summary
 
@@ -149,7 +149,7 @@ This ensures **early failure detection** without increasing operational costs or
 ##  Model Explainability (SHAP)
 
 
-<img width="968" height="820" alt="image" src="https://github.com/user-attachments/assets/4d946213-3862-45e3-83f2-2af8c798bc26" />
+<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/4d946213-3862-45e3-83f2-2af8c798bc26" />
 
 
 ### Key Insights
