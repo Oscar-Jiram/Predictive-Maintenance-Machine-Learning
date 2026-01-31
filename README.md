@@ -192,7 +192,9 @@ Real-time monitoring dashboard
 ## Author
 
 Oscar Castro
+
 Industrial Automation & Data Analytics
+
 Focus on Predictive Maintenance and Applied Machine Learning
 
 
