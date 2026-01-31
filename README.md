@@ -197,4 +197,5 @@ Industrial Automation & Data Analytics
 
 Focus on Predictive Maintenance and Applied Machine Learning
 
+<small> The trained model artifact is intentionally excluded; results are fully reproducible via the notebook. </small>
 
